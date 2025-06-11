@@ -1,5 +1,5 @@
-# Rmutum
-**Naperville, IL 60563** | **(630) 531-1529** | **rmutum@gmail.com**
+# raghu mutum
+**Naperville, IL** | **raghu_mutum@outlook.com**
 
 ## Professional Summary 
 Innovative and strategic technology leader with 20 years of experience driving large-scale software and mobility solutions across 
@@ -147,3 +147,14 @@ Demonstrates facial recognition in a video stream for tracking attendance using 
 
 #### Example 2: Face Recognition of Hosts
 Demonstrates face recognition in static images, specifically identifying NBC hosts from a database of known faces.
+
+### Project 4: Agentic AI
+---
+#### Example 1: Build a chatbot with RAG
+Demonstrates knowledge base in PDFs can be vectorized and embeddings used with RAG to empower an LLM.
+
+#### Example 2: Build a chatbot with MCP
+Demonstrates an LLM chatbot using tools (web services) with MCP.
+
+#### Example 2: Build chatbots that communicate with Google's A2A
+Demonstrates an LLM chatbot communicating with another AI agent with A2A.
